@@ -2,7 +2,7 @@ function calculateAge() {
     var dobDate = new Date(document.getElementById('dob').value);
     var today = new Date();
     var age = today.getFullYear() - dobDate.getFullYear();
-    var monthDiff = today.getMonth() - dobDate.getMonth() - 1;
+    var monthDiff = today.getMonth() - dobDate.getMonth();
     var dayDiff = today.getDate() - dobDate.getDate();
 
     if (monthDiff < 0 || (monthDiff === 0 && dayDiff < 0)) {
