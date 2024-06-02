@@ -1,5 +1,5 @@
 # Overview
-I am excited to share the Age Calculator project I developed during my internship at CodeAlpha. This web-based tool allows users to calculate their age in years, months, and days based on their date of birth. The project showcases my skills in HTML, CSS, and JavaScript.
+I am excited to share the Age Calculator project. This web-based tool allows users to calculate their age in years, months, and days based on their date of birth. The project showcases my skills in HTML, CSS, and JavaScript.
 
 # Features
 - User Input: Users can input their date of birth through a simple and intuitive interface.
